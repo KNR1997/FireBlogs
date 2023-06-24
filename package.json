@@ -8,10 +8,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "firebase": "^9.23.0",
+    "node-sass": "^9.0.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2",
+    "vue2-editor": "^2.10.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.1",
-    "vite": "^4.3.4"
+    "sass": "^1.63.6",
+    "vite": "^4.3.4",
+    "vite-svg-loader": "^4.0.0",
+    "vue-svg-loader": "^0.16.0",
+    "vue-template-compiler": "^2.7.14"
   }
 }
